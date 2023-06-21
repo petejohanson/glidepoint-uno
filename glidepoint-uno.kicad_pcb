@@ -490,6 +490,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
     )
+    (model "${KIPRJMOD}/3dmodels/TM035035.step"
+      (offset (xyz 0 0 -0.8))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 0))
+    )
   )
 
   (footprint "mbk:Choc-1u" (layer "F.Cu")
