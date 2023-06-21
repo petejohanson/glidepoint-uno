@@ -513,5 +513,8 @@
       ""
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "SHA1": "21dd6ff",
+    "TIMESTAMP": "2023-06-20"
+  }
 }

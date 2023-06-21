@@ -8,7 +8,8 @@ filters:
   - name: fix_rotation
     comment: 'Adjust rotation for JLC'
     type: rot_footprint
-    negative_bottom: true
+    negative_bottom: false
+    invert_bottom: true
     rotations:
       - ["^D_.*", 180.0]
 
