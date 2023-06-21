@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Arduino_MountingHole")(type "KiCad")(uri "${KICAD7_TEMPLATE_DIR}/Arduino_Mega/Arduino_MountingHole.pretty")(options "")(descr ""))
+  (lib (name "cirque")(type "KiCad")(uri "${KIPRJMOD}/cirque.pretty")(options "")(descr ""))
+  (lib (name "ffc")(type "KiCad")(uri "${KIPRJMOD}/ffc.pretty")(options "")(descr ""))
+  (lib (name "mbk")(type "KiCad")(uri "${KIPRJMOD}/mbk-footprints/mbk.pretty")(options "")(descr ""))
+)

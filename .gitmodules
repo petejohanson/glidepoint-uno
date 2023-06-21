@@ -1,0 +1,3 @@
+[submodule "mbk-footprints"]
+	path = mbk-footprints
+	url = https://github.com/FKcaps/mbk-footprints.git
