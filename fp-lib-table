@@ -4,4 +4,5 @@
   (lib (name "cirque")(type "KiCad")(uri "${KIPRJMOD}/cirque.pretty")(options "")(descr ""))
   (lib (name "ffc")(type "KiCad")(uri "${KIPRJMOD}/ffc.pretty")(options "")(descr ""))
   (lib (name "mbk")(type "KiCad")(uri "${KIPRJMOD}/mbk-footprints/mbk.pretty")(options "")(descr ""))
+  (lib (name "mounting")(type "KiCad")(uri "${KIPRJMOD}/mounting.pretty")(options "")(descr ""))
 )

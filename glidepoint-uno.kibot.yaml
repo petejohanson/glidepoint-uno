@@ -30,8 +30,6 @@ filters:
       - column: 'Ref'
         regex: '^FID'
       - column: 'Part'
-        regex: '^mount.*hole'
-      - column: 'Part'
         regex: 'solder.*bridge'
       - column: 'Part'
         regex: 'solder.*jump'
